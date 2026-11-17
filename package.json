@@ -1,0 +1,12 @@
+{
+  "name": "set-c-product-inventory-api",
+  "version": "1.0.0",
+  "description": "MERN / Full Stack Development Mid-Term Practical - Set C",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
